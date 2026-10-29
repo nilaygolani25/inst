@@ -1,0 +1,6 @@
+2026-07-16 12:57:35 | [DEVICE] {"ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0","screen":"1366x768","platform":"Win32","isMobile":false,"isAndroid":false} | IP: 127.0.0.1
+2026-07-16 12:58:25 | [DEVICE] {"ua":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36","screen":"393x873","platform":"Linux armv81","isMobile":true,"isAndroid":true} | IP: 127.0.0.1
+2026-08-21 12:34:07 | [DEVICE] {"ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36","screen":"1366x768","platform":"Win32","isMobile":false,"isAndroid":false} | IP: ::1
+2026-08-21 12:36:29 | [DEVICE] {"ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36","screen":"1366x768","platform":"Win32","isMobile":false,"isAndroid":false} | IP: ::1
+2026-10-29 11:15:13 | [DEVICE] {"ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36","screen":"1366x768","platform":"Win32","isMobile":false,"isAndroid":false} | IP: ::1
+2026-10-29 11:15:23 | axsppxk[oxk[o | IP: ::1
